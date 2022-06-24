@@ -1,10 +1,10 @@
-package com.example.practica;
+package com.example.Exceptions;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PracticaApplicationTests {
+class ExceptionsApplicationTests {
 
 	@Test
 	void contextLoads() {
